@@ -25,3 +25,5 @@ Task Four: Machine Learning Production.
 
 •	Wrote a Python module to train a model and output performance metrics.
 
+## [Job Simulation Completion Certificate](https://github.com/sen1997susmit/AI-Cognizant-Virtual-Internship/blob/main/Cognizant%20AI.pdf)
+
